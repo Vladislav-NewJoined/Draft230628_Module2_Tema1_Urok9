@@ -6,7 +6,7 @@ public class Draft1_Task2_1_9 {
     final static int pageSize = 5;
 
     public static void main(String[] args) {
-        System.out.println("Задание : \n1.\tУ вас есть список моделей смартфонов, 'iPhone 6 S', 'Lumia 950', " +
+        System.out.println("Задание : \n1.\tУ Вас есть список моделей смартфонов, 'iPhone 6 S', 'Lumia 950', " +
                 "\n'Samsung Galaxy S 6', 'LG G 4', 'Nexus 7', Вам нужно вывести в консоль названия " +
                 "\nдвух моделей пропустив при этом первый бренд при помощи метода skip и limit\n\nРешение: ");
         ArrayList<String> catalog = new ArrayList<>();
